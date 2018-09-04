@@ -1,3 +1,4 @@
+# this is a snarky comment
 import ConfigParser
 import os
 import sys
